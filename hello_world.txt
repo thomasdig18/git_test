@@ -1,0 +1,1 @@
+Adding text to be modified staged and commited with the other files
